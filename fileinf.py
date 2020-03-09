@@ -41,3 +41,4 @@ file_info={
 	'no_of_lines':count,
 	't_char':t_char
 }
+#updated by zhangyang2002
